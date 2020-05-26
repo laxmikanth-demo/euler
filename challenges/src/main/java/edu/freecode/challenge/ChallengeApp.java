@@ -5,7 +5,7 @@ package edu.freecode.challenge;
  */
 public class ChallengeApp {
     public static void main(String a[]) {
-        Challenge challenge = new Challenge();
-        challenge.compute(19564);
+        Challenge3 challenge = new Challenge3();
+        System.out.println(challenge.compute(13195));
     }
 }

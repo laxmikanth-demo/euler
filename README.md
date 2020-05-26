@@ -4,6 +4,7 @@
 
 *Reference:*
 - https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/
+- https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/
 
 #### Tech References
 
