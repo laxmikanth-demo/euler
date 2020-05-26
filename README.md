@@ -15,3 +15,9 @@
 > Java Streams & Lambda's
 
 - https://www.youtube.com/watch?v=1OpAgZvYXLQ
+
+> Design patterns
+
+- https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
+
+- https://www.devdiaries.net/blog/Spring-Design-Patterns-Creational-Patterns/
